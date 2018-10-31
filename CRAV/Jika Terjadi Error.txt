@@ -1,0 +1,16 @@
+
+CRAV Antivirus
+
+saya contohkan untuk mendeteksi virus EICAR
+coba ente buka notepad.exe, ketik EICAR trus save (type all files)
+dengan nama test.com
+
+Jika terjadi error, ikuti cara ini :
+
+- Copy COMCTL32.OCX ke folder C:\WINDOWS\System32\
+- Buka cmd.exe (Command Prompt)
+- ketik: regsvr32 COMCTL32.OCX
+- sukses
+- buka PrjCRAV lagi
+
+#isfa
